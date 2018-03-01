@@ -1,0 +1,12 @@
+{
+    "ID": "4e39fc46b60a8f297ec9fcc73eb50ee9",
+    "ActionKeyword": "p",
+    "Name": "iTunes",
+    "Description": "Play track from iTunes",
+    "Author": "mdumitru",
+    "Version": "1.0",
+    "Language": "python",
+    "Website": "",
+    "IcoPath": "Images\\itunes-logo.png",
+    "ExecuteFileName": "main.py"
+}
